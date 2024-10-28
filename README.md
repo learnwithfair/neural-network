@@ -5,7 +5,7 @@
 [![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Thanks for visiting my GitHub account! ***Please share this repo, but don't download it.***
+Thanks for visiting my GitHub account! ***"Please share this repo to get updates, don't download"***
 <p align="left"><img src="https://www.innovasolutions.com/wp-content/uploads/2020/04/comparision.png" width="400" height="250" alt="Cellular"></p>
 
 ## About Neural Network
