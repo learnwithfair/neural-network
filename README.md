@@ -13,7 +13,7 @@ Thanks for visiting my GitHub account! ***"Please share this repo to get updates
 A **neural network** is a method in artificial intelligence (AI) that teaches computers to process data in a way that is inspired by the human brain. It is a type of machine learning (ML) process, called deep learning, that uses interconnected nodes or neurons in a layered structure that resembles the human brain. It creates an adaptive system that computers use to learn from their mistakes and improve continuously. Thus, artificial neural networks attempt to solve complicated problems, like summarizing documents or recognizing faces, with greater accuracy.
 
 ### For More 
-- Visit-> [https://en.wikipedia.org/wiki/Cellular_network](https://www.geeksforgeeks.org/neural-networks-a-beginners-guide/)
+- Visit-> [https://www.geeksforgeeks.org/neural-networks-a-beginners-guide/](https://www.geeksforgeeks.org/neural-networks-a-beginners-guide/)
 
 
 
